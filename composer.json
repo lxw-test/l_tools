@@ -2,7 +2,7 @@
     "name": "ldesign/ltools",
     "description": "composer test for php tools",
     "type": "metapackage",
-    "license": "1.0.0",
+    "license": "proprietary",
     "minimum-stability": "beta",
     "require": {}
 }
