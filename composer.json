@@ -1,7 +1,7 @@
 {
     "name": "ldesign/ltools",
     "description": "composer test for php tools",
-    "type": "metapackage",
+    "type": "library",
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {}
