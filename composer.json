@@ -3,6 +3,6 @@
     "description": "composer test for php tools",
     "type": "metapackage",
     "license": "proprietary",
-    "minimum-stability": "beta",
+    "minimum-stability": "stable",
     "require": {}
 }
