@@ -1,8 +1,10 @@
 {
-    "name": "lxw-test/l_tools",
-    "description": "composer test for php tools",
+    "name": "ldesign/ltools",
+    "description": "it is test for composer",
     "type": "library",
+    "require": {
+        "php": ">=5"
+    },
     "license": "MIT",
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "dev"
 }
