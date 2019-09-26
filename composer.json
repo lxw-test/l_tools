@@ -3,7 +3,7 @@
     "description": "it is test for composer",
     "type": "library",
     "require": {
-        "php": ">=5"
+        "php": ">=5.4.0"
     },
     "license": "MIT",
     "minimum-stability": "dev"
